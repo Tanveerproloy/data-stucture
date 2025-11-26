@@ -1,8 +1,3 @@
-#   Created by Elshad Karimov on 02/06/2020.
-#   Copyright © 2020 AppMillers. All rights reserved.
-
-# Stack of Plates
-
 class PlateStack():
     def __init__(self, capacity):
         self.capacity = capacity
